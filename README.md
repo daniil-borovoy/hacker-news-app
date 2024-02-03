@@ -1,16 +1,5 @@
-# hacker_news
+# Hacker News App
 
-A new Flutter project.
+Immerse yourself in the dynamic world of technology and innovation with our Hacker News app! Discover the latest developments in coding, cybersecurity and disruptive technologies. Stay up-to-date with real-time information on software developments, startup breakthroughs and hacker culture. Participate in insightful discussions, vote for your favorite stories, and keep your finger on the pulse of the tech community. The Hacker News app is your primary source for cutting-edge news, keeping you up to date on the trends shaping the future of technology.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sigh, the description above writtten by ChatGPT.
